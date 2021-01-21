@@ -1,0 +1,17 @@
+body{
+    background-image: url(picture.jpg);
+    
+}
+p{
+    color:rgb(226, 227, 243);
+    font-size: 30px;
+}
+button{
+    font-size: 30px;
+    border-radius: 10px solid;
+    background-color: crimson;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(95, 4, 4);
+}
